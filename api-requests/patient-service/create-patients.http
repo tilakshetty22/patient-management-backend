@@ -1,0 +1,16 @@
+### POST request to create patient
+POST http://localhost:3004/api/patients
+Content-Type: application/json
+
+
+{
+  "name": "SHETTYTILAK",
+  "email": "SHETTYTILAK334@email.com",
+  "address": "Bangalore",
+  "dateOfBirth": "2001-12-07",
+  "registeredDate": "2024-12-22"
+}
+
+
+
+###
